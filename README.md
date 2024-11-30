@@ -3,6 +3,12 @@
 Ce projet illustre comment mettre en œuvre la validation de formulaires dans une application React en utilisant **Formik** et **Yup**. 
 Il inclut des exemples de validation de différents champs comme les noms, les emails ...
 
+## Démo
+
+Voici une vidéo démontrant le test de validation des champs du formulaire dans ce projet :
+
+[Visionner la vidéo de démonstration sur Google Drive](https://drive.google.com/file/d/1emt8Ag8zmSMRJW5xCTJ2ggbmJtjSRvMm/view?usp=sharing)
+
 ---
 
 ## Fonctionnalités
